@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -32,5 +33,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0008-string-to-integer-atoi) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
