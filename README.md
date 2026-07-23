@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0056-merge-intervals) |
 | [0414-third-maximum-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0414-third-maximum-number) |
 | [1256-rank-transform-of-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1256-rank-transform-of-an-array) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
