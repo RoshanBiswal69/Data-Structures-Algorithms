@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1256-rank-transform-of-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1256-rank-transform-of-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -122,4 +124,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0043-multiply-strings) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
