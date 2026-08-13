@@ -1,21 +1,25 @@
 class Solution {
 public:
     vector<vector<int>> shiftGrid(vector<vector<int>>& grid, int k) {
-        int m = grid.size();
-        int  n = grid[0].size();
-        int total = m*n;
-        k%=total;
-        vector<vector<int>> ans(m, vector<int>(n));
-
-        for(int i =0;i<m;i++){
-            for(int j=0;j<n;j++){
-                int oldIndex = i*n+j;
-                int newIndex = (oldIndex + k ) % total;
-                int newRow = newIndex / n;
-                int newCol = newIndex % n;
-                ans[newRow][newCol] = grid[i][j]; 
+        int n = grid.size(), m = grid[0].size();
+        std::vector<int> arr;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                arr.push_back(grid[i][j]);
             }
         }
-        return ans;
+
+        k %= (n * m);
+        rotate(arr.begin(), arr.end() - k, arr.end());
+
+        int cnt = 0;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                grid[i][j] = arr[cnt];
+                cnt++;
+            }
+        }
+
+        return grid;
     }
 };
