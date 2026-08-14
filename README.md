@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0520-detect-capital) |
+| [0857-positions-of-large-groups](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0857-positions-of-large-groups) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
