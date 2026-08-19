@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3206-find-common-elements-between-two-arrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3429-special-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3429-special-array-i) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1256-rank-transform-of-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0059-spiral-matrix-ii) |
 | [1386-shift-2d-grid](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1386-shift-2d-grid) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## String Matching
 |  |
 | ------- |
@@ -155,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
