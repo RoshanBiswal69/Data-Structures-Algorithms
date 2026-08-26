@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-linked-list-components](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0835-linked-list-components) |
+| [1072-next-greater-node-in-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1072-next-greater-node-in-linked-list) |
 | [1256-rank-transform-of-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1386-shift-2d-grid) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0445-add-two-numbers-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0445-add-two-numbers-ii) |
 | [0835-linked-list-components](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0835-linked-list-components) |
 | [0908-middle-of-the-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1072-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0445-add-two-numbers-ii) |
+| [1072-next-greater-node-in-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1072-next-greater-node-in-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1072-next-greater-node-in-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1072-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
