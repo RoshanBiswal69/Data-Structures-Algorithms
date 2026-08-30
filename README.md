@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 ## Doubly-Linked List
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0445-add-two-numbers-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0445-add-two-numbers-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1072-next-greater-node-in-linked-list) |
 ## Tree
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1072-next-greater-node-in-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1072-next-greater-node-in-linked-list) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
