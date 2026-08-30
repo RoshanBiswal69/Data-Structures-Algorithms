@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0043-multiply-strings) |
 | [0179-largest-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0179-largest-number) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0445-add-two-numbers-ii) |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
