@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0059-spiral-matrix-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0118-pascals-triangle) |
 ## Sorting
 |  |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0232-implement-queue-using-stacks) |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1072-next-greater-node-in-linked-list) |
 ## Design
