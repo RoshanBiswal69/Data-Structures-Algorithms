@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0059-spiral-matrix-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0414-third-maximum-number) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0232-implement-queue-using-stacks) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1072-next-greater-node-in-linked-list) |
 ## Design
@@ -236,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
