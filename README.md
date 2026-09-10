@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-linked-list-components](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0835-linked-list-components) |
