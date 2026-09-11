@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0118-pascals-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sorting
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0543-diameter-of-binary-tree) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0543-diameter-of-binary-tree) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0543-diameter-of-binary-tree) |
@@ -313,5 +317,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
