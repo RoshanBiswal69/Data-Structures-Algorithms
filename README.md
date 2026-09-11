@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0059-spiral-matrix-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0118-pascals-triangle) |
 | [0943-sum-of-subarray-minimums](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0954-maximum-sum-circular-subarray) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
