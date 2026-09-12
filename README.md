@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0485-max-consecutive-ones) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
+| [0229-majority-element-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0389-find-the-difference) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -353,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
