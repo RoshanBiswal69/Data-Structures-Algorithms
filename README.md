@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0835-linked-list-components](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0835-linked-list-components) |
 | [0943-sum-of-subarray-minimums](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0954-maximum-sum-circular-subarray) |
+| [1036-rotting-oranges](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1036-rotting-oranges) |
 | [1072-next-greater-node-in-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1072-next-greater-node-in-linked-list) |
 | [1256-rank-transform-of-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1386-shift-2d-grid) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0059-spiral-matrix-ii) |
+| [1036-rotting-oranges](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1036-rotting-oranges) |
 | [1386-shift-2d-grid](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1386-shift-2d-grid) |
 ## Simulation
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
