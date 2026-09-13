@@ -1,18 +1,32 @@
 class Solution {
 public:
-    double myPow(double x, int n) {
-        if(n<0){
+    double myPow(double x, int n) 
+    {
+        if(n == 0) return 1.0;
+        if(x == 0) return 0.0;
+        if(x == 1) return 1.0;
+        if(x == -1 && n%2 == 0) return 1.0;
+        if(x == -1 && n%2 != 0) return -1.0;
+
+        long binForm = n;
+        if(n < 0)
+        {
             x = 1/x;
-        }
-        long num = labs(n);
-        double pow = 1;
-        while(num){
-            if(num & 1){
-                pow *= x;
+            binForm = -binForm;
+        }    
+
+        double ans = 1;
+
+        while(binForm > 0)
+        {
+            if(binForm % 2 == 1)
+            {
+                ans *= x;
             }
-            x*=x;
-            num>>=1;
+            x *= x;
+            binForm /= 2;
         }
-        return pow;
+
+        return ans;
     }
 };
