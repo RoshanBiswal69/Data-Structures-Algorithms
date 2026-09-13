@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0414-third-maximum-number) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sorting
