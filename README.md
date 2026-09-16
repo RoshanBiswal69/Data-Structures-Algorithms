@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1072-next-greater-node-in-linked-list) |
 | [1256-rank-transform-of-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1256-rank-transform-of-an-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1386-shift-2d-grid](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1386-shift-2d-grid) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0940-fruit-into-baskets](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1256-rank-transform-of-an-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0050-powx-n) |
 | [0445-add-two-numbers-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0940-fruit-into-baskets](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 ## Union-Find
 |  |
 | ------- |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
