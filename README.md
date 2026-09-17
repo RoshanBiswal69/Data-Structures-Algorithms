@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0203-remove-linked-list-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0445-add-two-numbers-ii) |
 | [0835-linked-list-components](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0835-linked-list-components) |
 | [0908-middle-of-the-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0908-middle-of-the-linked-list) |
