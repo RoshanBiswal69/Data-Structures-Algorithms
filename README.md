@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0735-asteroid-collision) |
 | [0835-linked-list-components](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0835-linked-list-components) |
+| [0876-hand-of-straights](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0954-maximum-sum-circular-subarray) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0835-linked-list-components](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0835-linked-list-components) |
+| [0876-hand-of-straights](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
+| [0876-hand-of-straights](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0876-hand-of-straights) |
 | [1256-rank-transform-of-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0179-largest-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0876-hand-of-straights) |
 | [2032-largest-odd-number-in-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Heap (Priority Queue)
