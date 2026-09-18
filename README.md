@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0206-reverse-linked-list) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0231-power-of-two) |
