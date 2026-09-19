@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0812-rotate-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0812-rotate-string) |
 | [0857-positions-of-large-groups](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0857-positions-of-large-groups) |
 | [2032-largest-odd-number-in-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2032-largest-odd-number-in-string) |
+| [2577-count-palindromic-subsequences](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2577-count-palindromic-subsequences) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0954-maximum-sum-circular-subarray) |
+| [2577-count-palindromic-subsequences](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2577-count-palindromic-subsequences) |
 ## Sorting
 |  |
 | ------- |
