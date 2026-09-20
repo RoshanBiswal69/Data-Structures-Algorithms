@@ -1,20 +1,20 @@
 class Solution {
 public:
+    int bound(vector<int>& nums,int target,bool upper){
+        int left = 0;
+        int right = nums.size()-1;
+        while(left <= right){
+            int mid = left + (right - left) / 2;
+            
+             if (nums[mid] < target || upper && nums[mid] == target) left = mid + 1;
+            else right = mid -1;
+        }
+        return left;
+    }
     vector<int> searchRange(vector<int>& nums, int target) {
-        int startingPosition = -1, endingPosition = -1;
-        int n = nums.size();
-        for(int i=0; i<n; i++){
-            if(nums[i] == target){
-                startingPosition = i;
-                break;
-            }
-        }
-        for(int i=n-1; i>=0; i--){
-            if(nums[i] == target){
-                endingPosition = i;
-                break;
-            }
-        }
-        return {startingPosition, endingPosition};
+        int first = bound(nums, target, false);
+        if(first == nums.size() || nums[first]!= target) return {-1,-1};
+        int last = bound(nums,target,true) -1;
+        return {first,last};
     }
 };
