@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0735-asteroid-collision) |
 | [0835-linked-list-components](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0835-linked-list-components) |
 | [0876-hand-of-straights](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0954-maximum-sum-circular-subarray) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0455-assign-cookies) |
 | [0876-hand-of-straights](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Heap (Priority Queue)
