@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0216-combination-sum-iii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0908-middle-of-the-linked-list) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1046-max-consecutive-ones-iii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
