@@ -1,23 +1,20 @@
 class Solution {
 public:
-    int totalFruit(vector<int>& fruit) {
-          unordered_map<int, int> basket;
-        int n = fruit.size();
-        int left =0;
-        int maxi= 0;
-        for(int right = 0;right<n;right++){
-            basket[fruit[right]]++;
+    int totalFruit(vector<int>& fruits) {
+        int start = 0;
+        int maxlen = 0;
+        unordered_map<int, int> basket ;
+        for(int end = 0;end<fruits.size();end++){
+            basket[fruits[end]]++;
             while(basket.size()>2){
-                basket[fruit[left]]--;
-                if(basket[fruit[left]] == 0){
-                basket.erase(fruit[left]);
+                basket[fruits[start]]--;
+                if(basket[fruits[start]] == 0){
+                    basket.erase(fruits[start]);
+                }
+                start++;
             }
-            left++;
-            }
-           maxi = max(maxi ,right - left+1); 
-            
+            maxlen = max(maxlen , end - start + 1);
         }
-       return maxi;
-
+        return maxlen;
     }
 };
