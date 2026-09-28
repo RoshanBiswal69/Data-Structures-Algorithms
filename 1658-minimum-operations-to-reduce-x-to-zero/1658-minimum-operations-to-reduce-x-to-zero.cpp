@@ -22,6 +22,7 @@ public:
                 maxlen = max(maxlen, right - left +1);
             }
         }
-        return maxlen == -1 ? -1:n-maxlen;
+        if(maxlen == -1) return -1;
+        else return n-maxlen;
     }
 };
