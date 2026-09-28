@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1646-kth-missing-positive-number) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2756-buy-two-chocolates](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2756-buy-two-chocolates) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1256-rank-transform-of-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1046-max-consecutive-ones-iii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1646-kth-missing-positive-number) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Quicksort
 |  |
 | ------- |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Union-Find
 |  |
 | ------- |
@@ -514,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
