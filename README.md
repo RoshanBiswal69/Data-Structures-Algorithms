@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0434-number-of-segments-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
