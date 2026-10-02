@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2756-buy-two-chocolates](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2756-buy-two-chocolates) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3429-special-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3429-special-array-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0953-reverse-only-letters](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0953-reverse-only-letters) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Recursion
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1256-rank-transform-of-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2756-buy-two-chocolates](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2756-buy-two-chocolates) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0876-hand-of-straights](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2032-largest-odd-number-in-string) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2756-buy-two-chocolates](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2756-buy-two-chocolates) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Heap (Priority Queue)
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Counting Sort
 |  |
@@ -527,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1603-running-sum-of-1d-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1603-running-sum-of-1d-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1833-find-the-highest-altitude) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
