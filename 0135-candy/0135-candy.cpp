@@ -1,21 +1,21 @@
 class Solution {
 public:
-    int candy(vector<int>& rating) {
-        int n=rating.size();
-        vector<int> candy(n,1);
-        for(int i=1;i<n;i++){
-            if(rating[i]>rating[i-1])
-                candy[i]=candy[i-1]+1;
+    int candy(vector<int>& ratings,int cnt = 0) {
+        int n = ratings.size();
+        
+        vector<int> candies(n,1);
+        for(int i = 1;i<n;i++)
+            if(ratings[i] > ratings[i-1])
+            candies[i] = candies[i-1] + 1;
+
+
+        
+        for(int i = n-1;i>0;i--){
+            if(ratings[i-1] > ratings[i])
+                candies[i-1] = max(candies[i] + 1 , candies[i-1]);
+                cnt += candies[i-1];
+            
         }
-
-        for(int i=n-2;i>=0;i--){
-            if(rating[i]>rating[i+1])
-                candy[i]=max(candy[i],candy[i+1]+1);
-        }
-
-        int ans=0;
-        for(auto &i:candy) ans+=i;
-
-        return ans;
+        return cnt + candies[n-1];
     }
 };
