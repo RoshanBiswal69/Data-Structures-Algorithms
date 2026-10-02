@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0435-non-overlapping-intervals) |
