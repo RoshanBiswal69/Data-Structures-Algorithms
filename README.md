@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0735-asteroid-collision) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 | [0835-linked-list-components](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0835-linked-list-components) |
 | [0876-hand-of-straights](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0876-hand-of-straights) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 | [0876-hand-of-straights](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0876-hand-of-straights) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0229-majority-element-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
