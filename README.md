@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0179-largest-number) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0055-jump-game) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Range Minimum/Maximum Query
