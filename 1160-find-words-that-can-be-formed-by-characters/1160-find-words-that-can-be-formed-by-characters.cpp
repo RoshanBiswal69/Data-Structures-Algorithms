@@ -6,7 +6,7 @@ public:
         for(char c : chars){
             charfreq[c]++;
         }
-       for(const string& word : words){
+       for(auto word : words){
         unordered_map<char, int> wordfreq;
         bool valid = true;
 
