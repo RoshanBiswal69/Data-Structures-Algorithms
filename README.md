@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1036-rotting-oranges](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1072-next-greater-node-in-linked-list) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1386-shift-2d-grid](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1386-shift-2d-grid) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0966-binary-subarrays-with-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0812-rotate-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0812-rotate-string) |
 | [0857-positions-of-large-groups](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0857-positions-of-large-groups) |
 | [0953-reverse-only-letters](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0953-reverse-only-letters) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [2577-count-palindromic-subsequences](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2577-count-palindromic-subsequences) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Matrix
