@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0782-jewels-and-stones](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0812-rotate-string) |
 | [0857-positions-of-large-groups](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0857-positions-of-large-groups) |
+| [0886-score-of-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0886-score-of-parentheses) |
 | [0953-reverse-only-letters](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0953-reverse-only-letters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0735-asteroid-collision) |
+| [0886-score-of-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0886-score-of-parentheses) |
 | [0943-sum-of-subarray-minimums](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1072-next-greater-node-in-linked-list) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0886-score-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Range Minimum/Maximum Query
 |  |
