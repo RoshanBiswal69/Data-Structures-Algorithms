@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0409-longest-palindrome) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1036-rotting-oranges) |
 ## Binary Tree
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 ## Trie
 |  |
 | ------- |
