@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0680-valid-palindrome-ii) |
@@ -343,15 +344,18 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0812-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
