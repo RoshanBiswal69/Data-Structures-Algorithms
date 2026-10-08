@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0735-asteroid-collision) |
 | [1386-shift-2d-grid](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1386-shift-2d-grid) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1236-n-th-tribonacci-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1236-n-th-tribonacci-number) |
