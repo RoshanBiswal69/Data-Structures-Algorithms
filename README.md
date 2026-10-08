@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0908-middle-of-the-linked-list) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0301-remove-invalid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0434-number-of-segments-in-a-string) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0747-min-cost-climbing-stairs) |
