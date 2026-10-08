@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0043-multiply-strings) |
+| [0131-palindrome-partitioning](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0179-largest-number) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0678-valid-parenthesis-string) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 ## Trie
