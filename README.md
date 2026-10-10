@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0435-non-overlapping-intervals) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0409-longest-palindrome) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0414-third-maximum-number) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
@@ -528,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -622,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -633,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 ## Pigeonhole Principle
 |  |
