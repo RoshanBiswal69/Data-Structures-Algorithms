@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2333-minimum-sum-of-squared-difference](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2756-buy-two-chocolates](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2756-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3429-special-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3429-special-array-i) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
@@ -656,4 +657,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1236-n-th-tribonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
