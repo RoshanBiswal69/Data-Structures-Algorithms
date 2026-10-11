@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0168-excel-sheet-column-title) |
