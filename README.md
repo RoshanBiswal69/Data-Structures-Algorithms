@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -681,4 +683,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
