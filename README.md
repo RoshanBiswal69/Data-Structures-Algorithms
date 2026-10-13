@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3206-find-common-elements-between-two-arrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3429-special-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3429-special-array-i) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2756-buy-two-chocolates](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2756-buy-two-chocolates) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Database
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2756-buy-two-chocolates](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2756-buy-two-chocolates) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
