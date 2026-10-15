@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
+| [0713-subarray-product-less-than-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0747-min-cost-climbing-stairs) |
 | [0835-linked-list-components](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0835-linked-list-components) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0713-subarray-product-less-than-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1646-kth-missing-positive-number) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
@@ -627,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
