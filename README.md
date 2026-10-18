@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1386-shift-2d-grid](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1386-shift-2d-grid) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1646-kth-missing-positive-number) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0943-sum-of-subarray-minimums](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0954-maximum-sum-circular-subarray) |
 | [1236-n-th-tribonacci-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1236-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2577-count-palindromic-subsequences](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2577-count-palindromic-subsequences) |
 ## Sorting
 |  |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1236-n-th-tribonacci-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2032-largest-odd-number-in-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2050-count-good-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0703-kth-largest-element-in-a-stream](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -539,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0703-kth-largest-element-in-a-stream](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -576,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0954-maximum-sum-circular-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -634,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -682,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Data Stream
 |  |
 | ------- |
@@ -700,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1236-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Enumeration
 |  |
 | ------- |
@@ -718,4 +727,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
