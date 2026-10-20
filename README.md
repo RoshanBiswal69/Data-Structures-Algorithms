@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3886-sum-of-sortable-integers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3886-sum-of-sortable-integers) |
 ## Database
 |  |
 | ------- |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2032-largest-odd-number-in-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2050-count-good-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3886-sum-of-sortable-integers) |
 ## Newton's Method
 |  |
 | ------- |
