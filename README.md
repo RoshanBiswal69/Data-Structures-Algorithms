@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3206-find-common-elements-between-two-arrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3429-special-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3429-special-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0389-find-the-difference) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Queue
 |  |
 | ------- |
