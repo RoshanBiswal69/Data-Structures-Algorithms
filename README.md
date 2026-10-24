@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2032-largest-odd-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2409-count-days-spent-together) |
 | [2577-count-palindromic-subsequences](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2577-count-palindromic-subsequences) |
 | [3811-reverse-degree-of-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2032-largest-odd-number-in-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2050-count-good-numbers) |
+| [2409-count-days-spent-together](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
