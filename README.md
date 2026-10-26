@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3206-find-common-elements-between-two-arrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3429-special-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3429-special-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1036-rotting-oranges](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1036-rotting-oranges) |
 | [1386-shift-2d-grid](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1386-shift-2d-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0301-remove-invalid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1036-rotting-oranges) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -698,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
