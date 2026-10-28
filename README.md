@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0409-longest-palindrome) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0301-remove-invalid-parentheses) |
+| [0383-ransom-note](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0229-majority-element-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
