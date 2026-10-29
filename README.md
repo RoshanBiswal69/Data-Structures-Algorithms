@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2577-count-palindromic-subsequences](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2577-count-palindromic-subsequences) |
 | [3811-reverse-degree-of-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0389-find-the-difference) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Queue
 |  |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0789-kth-largest-element-in-a-stream](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -576,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -649,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0954-maximum-sum-circular-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -793,11 +799,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Combinatorics
 |  |
 | ------- |
