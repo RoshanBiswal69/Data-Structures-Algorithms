@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0782-jewels-and-stones) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0455-assign-cookies) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0908-middle-of-the-linked-list) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -603,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0301-remove-invalid-parentheses](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0301-remove-invalid-parentheses) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1036-rotting-oranges) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -623,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -775,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
