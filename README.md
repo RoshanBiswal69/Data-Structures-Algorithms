@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-shift-2d-grid](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1386-shift-2d-grid) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0953-reverse-only-letters) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0881-boats-to-save-people) |
 | [1094-car-pooling](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1094-car-pooling) |
 | [1256-rank-transform-of-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1256-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1646-kth-missing-positive-number) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
