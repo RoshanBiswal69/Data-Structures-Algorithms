@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2333-minimum-sum-of-squared-difference](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2747-count-zero-request-servers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2747-count-zero-request-servers) |
 | [2756-buy-two-chocolates](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2756-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1370-count-number-of-nice-subarrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2089-find-target-indices-after-sorting-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2747-count-zero-request-servers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2747-count-zero-request-servers) |
 | [2756-buy-two-chocolates](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2756-buy-two-chocolates) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
@@ -738,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1370-count-number-of-nice-subarrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Union-Find
 |  |
