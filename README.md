@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3693-climbing-stairs-ii) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2577-count-palindromic-subsequences](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2577-count-palindromic-subsequences) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
