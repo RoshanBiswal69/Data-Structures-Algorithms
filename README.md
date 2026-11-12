@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0713-subarray-product-less-than-k) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0455-assign-cookies) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0908-middle-of-the-linked-list) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 | [0876-hand-of-straights](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0876-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0881-boats-to-save-people) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -713,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -744,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
