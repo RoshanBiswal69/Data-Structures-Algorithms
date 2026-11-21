@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3429-special-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3429-special-array-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2577-count-palindromic-subsequences](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2577-count-palindromic-subsequences) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3811-reverse-degree-of-a-string](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0789-kth-largest-element-in-a-stream](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -644,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
