@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1267-count-servers-that-communicate](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-shift-2d-grid](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1386-shift-2d-grid) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1236-n-th-tribonacci-number](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1236-n-th-tribonacci-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -810,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0966-binary-subarrays-with-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1094-car-pooling) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -859,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RoshanBiswal69/Data-Structures-Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
 ## Bucket Sort
 |  |
 | ------- |
